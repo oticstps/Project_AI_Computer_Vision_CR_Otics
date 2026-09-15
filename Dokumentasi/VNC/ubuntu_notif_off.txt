@@ -1,0 +1,2 @@
+gsettings set org.gnome.Vino prompt-enabled false
+gsettings set org.gnome.Vino notify-on-connect false
